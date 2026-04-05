@@ -13,7 +13,7 @@ OWNERDOMAIN=llucswf.github.io
 # -------------------------------------------------------
 # CONTACT INFORMATION
 # -------------------------------------------------------
-# contact=lluc724@gmail.com.com
+# contact=lluc724@gmail.com
 
 # -------------------------------------------------------
 # GOOGLE
