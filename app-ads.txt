@@ -1,0 +1,25 @@
+# app-ads.txt - Authorized Sellers for Apps
+# Specification: IAB Tech Lab app-ads.txt v1.0 / ads.txt v1.1
+# Reference: https://iabtechlab.com/ads-txt/
+# Format: <AD_SYSTEM_DOMAIN>, <PUBLISHER_ID>, <RELATIONSHIP>, [CERTIFICATION_AUTHORITY_ID]
+# RELATIONSHIP values: DIRECT | RESELLER
+# Last updated: 2026-04-05
+
+# -------------------------------------------------------
+# OWNER & MANAGER DOMAIN DECLARATIONS (ads.txt v1.1)
+# -------------------------------------------------------
+OWNERDOMAIN=llucswf.github.io
+
+# -------------------------------------------------------
+# CONTACT INFORMATION
+# -------------------------------------------------------
+# contact=lluc724@gmail.com.com
+
+# -------------------------------------------------------
+# GOOGLE
+# -------------------------------------------------------
+google.com, pub-2883910441097441, DIRECT, f08c47fec0942fa0
+
+# -------------------------------------------------------
+# END OF FILE
+# -------------------------------------------------------
